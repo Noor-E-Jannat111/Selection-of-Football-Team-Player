@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Lara Gutami",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "100",
+    "img": "https://i.ibb.co/jysSMtL/person1.jpg"
+  }, {
+    "id": 2,
+    "name": "Farlee",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "45",
+    "img": "https://i.ibb.co/zJvFYF9/person2.png"
+  }, {
+    "id": 3,
+    "name": "Joelle",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "120",
+    "img": "https://i.ibb.co/9cgb0fL/person3.jpg"
+  }, {
+    "id": 4,
+    "name": "Judas",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "10",
+    "img": "https://i.ibb.co/Bf29YLt/person4.jpg"
+  }, {
+    "id": 5,
+    "name": "Sydelle",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "240",
+    "img": "https://i.ibb.co/bFvRNyy/person5.png"
+  }, {
+    "id": 6,
+    "name": "Nat",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "145",
+    "img": "https://i.ibb.co/Bnw3H6w/person6.png"
+  }, {
+    "id": 7,
+    "name": "Bertram",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "80",
+    "img": "https://i.ibb.co/x528Kg8/person7.png"
+  }, {
+    "id": 8,
+    "name": "Neale",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "100",
+    "img": "https://i.ibb.co/fkxTrNn/person8.jpg"
+  }, {
+    "id": 9,
+    "name": "Ranna",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "25",
+    "img": "https://i.ibb.co/rdbPsR1/person9.jpg"
+  }, {
+    "id": 10,
+    "name": "Brit",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "85",
+    "img": "https://i.ibb.co/c1wsKh9/person10.jpg"
+  }, {
+    "id": 11,
+    "name": "Dannel",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "300",
+    "img": "https://i.ibb.co/gRsY6rn/person11.png"
+  }, {
+    "id": 12,
+    "name": "Ilsa",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "60",
+    "img": "https://i.ibb.co/LRCx4M2/person12.jpg"
+  }, {
+    "id": 13,
+    "name": "L;urette",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "100",
+    "img": "https://i.ibb.co/Tc5M2j1/person13.jpg"
+  }, {
+    "id": 14,
+    "name": "Shepperd",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "20",
+    "img": "https://i.ibb.co/5Bgy9Fw/person14.jpg"
+  }, {
+    "id": 15,
+    "name": "Steven Adams",
+    "job": "Player",
+    "Number Position": "5F",
+    "salary": "300",
+    "img": "https://i.ibb.co/gRsY6rn/person11.png"
+  }]
